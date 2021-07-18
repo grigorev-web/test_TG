@@ -1,2 +1,3 @@
-# test_TG
-Created with CodeSandbox
+# Тестовое задание ТГ
+# demo
+https://grigorev-web.github.io/csb-sxbbg/
